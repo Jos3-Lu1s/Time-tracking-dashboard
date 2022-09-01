@@ -39,3 +39,26 @@
     display: block;
     padding: 10px 0px 10px 0px;
 }
+
+
+.body-card{
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+    position: relative;
+    z-index: 20;
+}
+
+.header-card{
+    position: relative;
+    height: 70px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-position: right;
+    top: 25px;
+    z-index: 10;
+}
+
+.work{
+    background-image: url("../images/icon-work.svg");
+    background-color: hsl(15, 100%, 70%);
+}

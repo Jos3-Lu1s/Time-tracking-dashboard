@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
 .attribution {
     font-size: 11px;
     color: #eeee;
@@ -11,6 +13,19 @@
     background-color: hsl(226, 43%, 10%);
 }
 
+.hrs, .title-card, .week, a, p, h1{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+.week{
+    color: hsl(236, 100%, 87%);
+}
+
+.title-card, a{
+    font-weight: 400;
+}
 
 .profile img {
     width: 70px;
@@ -42,12 +57,17 @@
     padding: 10px 0px 10px 0px;
 }
 
-
 .body-card {
     background-color: hsl(235, 46%, 20%);
     border-radius: 15px;
     position: relative;
     z-index: 20;
+    transition: background-color .5s;
+    cursor: pointer;
+}
+
+.body-card:hover{
+    background-color: hsl(237, 35%, 39%);
 }
 
 .header-card {

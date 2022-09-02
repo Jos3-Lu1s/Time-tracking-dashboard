@@ -1,5 +1,5 @@
 async function GetData() {
-    const response = await fetch("http://127.0.0.1:5500/data/data.json");
+    const response = await fetch("https://jos3-lu1s.github.io/Time-tracking-dashboard/data/data.json");
     const json = await response.json();
 
     let hrs = document.getElementsByClassName("hrs");

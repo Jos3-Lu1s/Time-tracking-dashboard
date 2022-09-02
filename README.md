@@ -10,7 +10,7 @@ Gracias por revisar este desafío front-end. Diseño de dashboard utilizando la 
 
 - Construir este dashboard y lograr que se parezca lo más posible al diseño por medio de la implementación de cualquier herramienta.
 
-- Trabajo con los datos JSON provenientes del archivo `data.json` para cambiar entre ver estadísticas diarias, semanales y mensuales
+- Trabajo con los datos JSON provenientes del archivo `data.json` para cambiar entre ver estadísticas diarias, semanales y mensuales.
 
 ### Construido con:
 
@@ -20,4 +20,4 @@ Gracias por revisar este desafío front-end. Diseño de dashboard utilizando la 
 - JavaScript
 
 ### Enlaces
-- URL del sitio en vivo: [Time tracking dashboard](https://jos3-lu1s.github.io/Time-tracking-dashboard/)
+- URL del sitio en vivo: [Time tracking dashboard](https://jos3-lu1s.github.io/Time-tracking-dashboard/).

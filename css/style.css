@@ -57,6 +57,10 @@
     padding: 10px 0px 10px 0px;
 }
 
+.profile-menu a:hover{
+    color: #eeee;
+}
+
 .body-card {
     background-color: hsl(235, 46%, 20%);
     border-radius: 15px;
